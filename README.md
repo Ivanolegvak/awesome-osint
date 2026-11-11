@@ -849,6 +849,7 @@ algorithms, knowledgebase and AI technology.
 * [SEMrush](https://www.semrush.com)
 * [Serpstat](https://serpstat.com)
 * [SpyFu](https://www.spyfu.com)
+* [SONAR Company Lookups](https://getsonar.report/tools) - Free company lookups in official national registers (UK, EU and Brazil) by name or number, with guides on how to check a company in each country's official register.
 * [Tracxn](https://tracxn.com) - Search information about a company such as aquisitions, investors, people, research, etc
 * [UniCourt](https://unicourt.com/) - Limited free searches, premium data upsell. Nationwide search of 100 million+ United States court cases.
 * [Vault](https://www.vault.com) - Well-known ranking of largest United States Corporations.
