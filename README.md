@@ -849,6 +849,7 @@ algorithms, knowledgebase and AI technology.
 * [Section 16 Deadline Calculator](https://github.com/Turner-Levey/section-16-deadline-calculator)  - Open-source browser-only worksheet for common SEC Forms 3, 4, and 5 ownership-reporting deadline planning, with memo and CSV copy outputs.
 * [SEMrush](https://www.semrush.com)
 * [Serpstat](https://serpstat.com)
+* [SONAR Company Lookups](https://getsonar.report/tools) - Free company lookups by name or number in the official registers of 13 countries (UK, Brazil, Singapore, Norway and EU states), plus an EU VAT number checker, with a guide to each country's register.
 * [SpyFu](https://www.spyfu.com)
 * [Tracxn](https://tracxn.com) - Search information about a company such as aquisitions, investors, people, research, etc
 * [UniCourt](https://unicourt.com/) - Limited free searches, premium data upsell. Nationwide search of 100 million+ United States court cases.
